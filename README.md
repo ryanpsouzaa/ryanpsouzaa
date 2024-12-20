@@ -4,8 +4,7 @@
 - Sempre aprendendo algo novo por aí...
 
 
-
-  ## Ferramentas e Linguagens
+## Ferramentas e Linguagens
 <div>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50" width="50"/>
