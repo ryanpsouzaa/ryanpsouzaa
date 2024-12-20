@@ -1,13 +1,12 @@
-## Hi there 👋
+## Olá, meu nome é Ryan 👋
+## Sobre mim
+- Residindo em Paraíba-BR
+- Atualmente estou estudando Ciências da Computação (UFPB)
+- Sempre aprendendo algo novo por aí...
+
+## Ferramentas e Linguagens
 
 
-<h1>
-  Linguagens
-</h1>
-<p>
-  - Estudante de Ciências da Computação - UFPB
-
-</p>
 <!--
 **ryanpsouzaa/ryanpsouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
