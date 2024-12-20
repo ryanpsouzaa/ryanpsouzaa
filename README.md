@@ -4,12 +4,16 @@
 - Sempre aprendendo algo novo por aí...
 
 
-## Ferramentas e Linguagens
+## Adquirindo habilidades em
 <div>
   
-<img target="blank" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" width="50" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50" width="50"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" widht="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="50" widht="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" widht="50" />
+
+          
+                 
 </div>
 
 <div>
