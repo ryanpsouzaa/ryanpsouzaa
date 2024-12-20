@@ -1,15 +1,12 @@
-<div>
   ## Olá, meu nome é Ryan 👋
 - Residindo em Paraíba-BR
 - Atualmente estou estudando Ciências da Computação (UFPB)
 - Sempre aprendendo algo novo por aí...
-  
-</div>
 
 
 <div>
   ## Ferramentas e Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=1 width=1 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=1 width=1/>
 
 </div>
 
