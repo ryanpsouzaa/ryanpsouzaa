@@ -4,18 +4,16 @@
 - Sempre aprendendo algo novo por aí...
 
 
-## Adquirindo habilidades em
+## Adquirindo habilidades
 <div>
   
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" widht="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="50" widht="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" widht="50" />
-
-          
-                 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" widht="50" />           
 </div>
 
+## Stats
 <div>
   <a href="https://github.com/ryanpsouzaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanpsouzaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
