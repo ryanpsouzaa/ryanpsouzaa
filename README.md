@@ -10,6 +10,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" width="50" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=spring" height="50" width="50" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50" width="50" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" width="50" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=ts" height="50" width="50" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=jest" height="50" width="50" alt="Jest"/>
